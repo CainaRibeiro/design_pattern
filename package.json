@@ -8,5 +8,9 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-typescript": "^0.1.3",
+    "typescript": "^5.5.4"
+  }
 }
